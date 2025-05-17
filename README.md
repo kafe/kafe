@@ -1,16 +1,15 @@
 ## Hi there 👋
+👋 Hi, I’m Kafe Ul Alam
+💻 Full-Stack Web & Mobile App Developer
 
-<!--
-**kafe/kafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build robust, scalable, and user-centric applications across the stack. With expertise in both frontend web development and cross-platform mobile frameworks, I bridge the gap between elegant UI/UX and high-performance backend systems.
 
-Here are some ideas to get you started:
+🛠 Core Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React.js, Angular, Vue.js, TypeScript, Tailwind CSS
+
+Mobile: React Native, Flutter, Ionic
+
+Backend: Node.js, Express, Django, Firebase, REST/GraphQL APIs
+
+DB/DevOps: MongoDB, PostgreSQL
