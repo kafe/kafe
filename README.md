@@ -6,10 +6,10 @@ I build robust, scalable, and user-centric applications across the stack. With e
 
 🛠 Core Skills:
 
-Frontend: React.js, Angular, Vue.js, TypeScript, Tailwind CSS
+Frontend: React.js, TypeScript, Tailwind CSS
 
-Mobile: React Native, Flutter, Ionic
+Mobile: React Native
 
-Backend: Node.js, Express, Django, Firebase, REST/GraphQL APIs
+Backend: Node.js, Express,Next js REST/GraphQL APIs
 
 DB/DevOps: MongoDB, PostgreSQL
