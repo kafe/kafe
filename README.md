@@ -1,4 +1,4 @@
-## Hi there 👋
+
 👋 Hi, I’m Kafe Ul Alam
 💻 Full-Stack Web & Mobile App Developer
 
